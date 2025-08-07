@@ -19,9 +19,11 @@
 
 ## 🔍 ¿Qué me mueve?
 
-- **Desafío constante**: Anticipar y neutralizar amenazas en un mundo digital en evolución.  
+- **Desafío constante**: Aprendizaje constante, para anticipar y neutralizar amenazas en un mundo digital en evolución.  
 - **Impacto real**: Desarrollar herramientas que **mejoren la vida de una sola persona o de toda una empresa**.  
 - **Aprendizaje interdisciplinario**: Fusionar **ciberseguridad** con **Machine Learning** para crear defensas inteligentes.
+- **Conectar ideas con bits: IoT + ML + Python.**
+- **Afición por los datos, PostgreSQL, Pandas y Linux.**
   
 ###
 
