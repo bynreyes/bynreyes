@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **python, java, SQL**
 
-- 🤝 I’m looking for help with ** java/ python/ SQL**
+- 🤝 I’m looking for help with **java/ python/ SQL**
 
 - 📫 How to reach me **noria@gmail.com**
 
