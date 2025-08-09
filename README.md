@@ -3,16 +3,16 @@
 
 ###
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bynreyes&label=Profile%20views&color=0e75b6&style=flat" alt="bynreyes" /> </p>
 
-- 🔭 I’m currently working on: Py Adventures, notas de clases de python y ML
+###
 
+- 🌎 Soy de Santander, Colombia
 - 🌱 I’m currently learning **python, java, SQL**
-
 - 🤝 I’m looking for help with **java/ python/ SQL**
-
 - 📫 How to reach me **noria@gmail.com**
+- 🚀 Estoy trabajando en estos proyectos:
+  - Py Adventure: articulos variados referentes a python https://bynreyes.github.io/
 
 ###
 
@@ -21,7 +21,6 @@
 
 - **Desafío constante**: Aprendizaje constante, para anticipar y neutralizar amenazas en un mundo digital en evolución.  
 - **Impacto real**: Desarrollar herramientas que **mejoren la vida de una sola persona o de toda una empresa**.  
-- **Aprendizaje interdisciplinario**: Fusionar **ciberseguridad** con **Machine Learning** para crear defensas inteligentes.
 - **Conectar ideas con bits: IoT + ML + Python.**
 - **Afición por los datos, PostgreSQL, Pandas y Linux.**
   
