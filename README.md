@@ -18,8 +18,6 @@
 
 
 ## 🔍 ¿Qué me mueve?
-
-- **Desafío constante**: Aprendizaje constante, para anticipar y neutralizar amenazas en un mundo digital en evolución.  
 - **Impacto real**: Desarrollar herramientas que **mejoren la vida de una sola persona o de toda una empresa**.  
 - **Conectar ideas con bits: IoT + ML + Python.**
 - **Afición por los datos, PostgreSQL, Pandas y Linux.**
