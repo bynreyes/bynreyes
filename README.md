@@ -18,7 +18,6 @@
 
 
 ## 🔍 ¿Qué me mueve?
-- **Impacto real**: Desarrollar herramientas que **mejoren la vida de una sola persona o de toda una empresa**.  
 - **Conectar ideas con bits: IoT + ML + Python.**
 - **Afición por los datos, PostgreSQL, Pandas y Linux.**
   
@@ -26,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/bynreyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bynreyes" height="30" width="40" /></a>
+<a href="https://instagram.com/bynreyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="by.nreyes" height="30" width="40" /></a>
 </p>
 
 ###
